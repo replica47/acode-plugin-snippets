@@ -1,5 +1,5 @@
 # Acode Plugin Snippet (forked)
-**Note:** *I own no rights to the source code forked. This is a fork meant for my own educational purposes. I am trying to learn how to build a working plugin for Acode text editor.*
+**Note:** *I own no rights to the source code forked. This is a fork meant for my own educational purposes. I am learning how to build a working plugin for the Acode text editor.*
 
 ----
 
@@ -8,7 +8,7 @@
 ----
 
 ````
-Taken from original readme of the original author 30/03/2025.
+This part is taken from the original readme of the original author on 30/03/2025.
 ````
 
 ## Supported languages in this Snippet Plugin forked version.
