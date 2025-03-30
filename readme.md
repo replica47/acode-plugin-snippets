@@ -1,25 +1,17 @@
-# acode-plugin-snippets
-![version](https://img.shields.io/badge/Latest%20version-V1.2.3-green)
-> Snippets plugin for acode editor. It provides autocompletion of codes of different languages that are listed below.
+# Acode Plugin Snippet (forked)
+**Note:** *I own no rights to the source code forked. This is a fork meant for my own educational purposes. I am trying to learn how to build a working plugin for Acode text editor.*
 
-**NOTE:** This plugin is not fully supported in Acode version lower than v1.6.0 (212).
-Please update your **Acode App** to latest version for using this plugin.
+----
 
-## How to enable custom snippets?
+*Please visit the original page* [here](https://github.com/Acode-Foundation/acode-plugin-snippets), *or visit the Acode Foundation* [home page](https://github.com/Acode-Foundation) *to find the source code and other interesting Acode related code/projects.*
 
-- Open command palette
-- Type `set snippets path`
-- Create a new directory or select a directory with snippets in it.
-- Navigate to the snippet directory, open and edit any snippets file
-- Restart the app.
+----
 
-## How to disable custom snippets?
+````
+Taken from original readme of the original author 30/03/2025.
+````
 
-- Open command palette
-- Type `reset snippets path`
-- Restart the app.
-
-## Supported languages in Snippet Plugin
+## Supported languages in this Snippet Plugin forked version.
 
 - Abc
 - ActionScript
@@ -76,15 +68,9 @@ Please update your **Acode App** to latest version for using this plugin.
 - Velocity
 - Wallok
 
-## Authors
+## Original Authors
 - [@Ajit Kumar](https://github.com/deadlyjack)
 
 ## How to write snippets?
 
 Check out [this](https://cloud9-sdk.readme.io/docs/snippets) article on how to write snippets.
-
-## Upcomming updates
-
-- Create snippets for language that are not already available.
-
-Thank you for using Acode and acode-plugin-snippets.
